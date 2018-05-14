@@ -1,3 +1,5 @@
+SFML-2.4.2/* linguist-vendored
+
 #sources
 *.c text
 *.cc text

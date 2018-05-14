@@ -1,5 +1,5 @@
 # 2D Game Engine
-2D Game Engine using SFML library. [Executable] (https://github.com/ConnorLee2/2D-Game-Engine/tree/master/Other/Game%20Executable) available in the Other folder.
+2D Game Engine using SFML library. [Executable](https://github.com/ConnorLee2/2D-Game-Engine/tree/master/Other/Game%20Executable) available in the Other folder.
 
 ## Screenshots
 ### Title Screen

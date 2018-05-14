@@ -1,13 +1,15 @@
 # 2D Game Engine
-2D Game Engine using SFML library. [Executable] () available in the Other folder.
+2D Game Engine using SFML library. [Executable] (https://github.com/ConnorLee2/2D-Game-Engine/tree/master/Other/Game%20Executable) available in the Other folder.
 
 ## Screenshots
 ### Title Screen
+![alt text](https://raw.githubusercontent.com/ConnorLee2/2D-Game-Engine/master/Other/title_screen.png "title_screen")
 ### Level Selection
+![alt text](https://raw.githubusercontent.com/ConnorLee2/2D-Game-Engine/master/Other/level_selection.png "level_selection")
 ### Level One
+![alt text](https://raw.githubusercontent.com/ConnorLee2/2D-Game-Engine/master/Other/level_one.png "level_one")
 ### Level Two
-### Lose screen
-### Win screen
+![alt text](https://raw.githubusercontent.com/ConnorLee2/2D-Game-Engine/master/Other/level_two.png "level_two")
 
 ## Features
 * Game states - state machine handles switching between states (Title screen, levels etc.).

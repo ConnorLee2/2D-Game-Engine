@@ -1,0 +1,42 @@
+#pragma once
+// PS4 Controller
+#define CONTROLLER_BUTTON_SQUARE 0
+#define CONTROLLER_BUTTON_CROSS 1
+#define CONTROLLER_BUTTON_CIRCLE 2
+#define CONTROLLER_BUTTON_TRIANGLE 3
+#define CONTROLLER_BUTTON_L1 4
+#define CONTROLLER_BUTTON_R1 5
+#define CONTROLLER_BUTTON_L2 6
+#define CONTROLLER_BUTTON_R2 7
+#define CONTROLLER_BUTTON_SHARE 8
+#define CONTROLLER_BUTTON_OPTIONS 9
+#define CONTROLLER_BUTTON_L3 10
+#define CONTROLLER_BUTTON_R3 11
+#define CONTROLLER_BUTTON_PS_BUTTON 12
+#define CONTROLLER_BUTTON_TOUCHPAD 13
+/*
+PovY : Up: 100 | Down : -100
+PovX : Left : -100 | Right : 100
+Right Analog: Z axis
+Left Analog: X/Y axis
+*/
+
+// Xbox One controller
+#define CONTROLLER_BUTTON_A 0
+#define CONTROLLER_BUTTON_B 1
+#define CONTROLLER_BUTTON_X 2
+#define CONTROLLER_BUTTON_Y 3
+#define CONTROLLER_BUTTON_LB 4
+#define CONTROLLER_BUTTON_RB 5
+#define CONTROLLER_BUTTON_VIEW 6
+#define CONTROLLER_BUTTON_MENU 7
+#define CONTROLLER_BUTTON_L3 8
+#define CONTROLLER_BUTTON_R3 9
+
+/*
+PovY: Up/down dpad
+PovX: Left/right dpad
+Right Analog: x/y rotation
+Left Analog: x/y axis
+LT/RT: z axis
+*/
